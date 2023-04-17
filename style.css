@@ -5,8 +5,10 @@ body {
     justify-content: center;
 }
 h1 {
-    border: 2px double black;
+    border: 6px double black;
     background-color: blue;
     padding: 10px 20px;
+    color: white;
+    font-size: 40px;
 
 }
